@@ -1,6 +1,10 @@
 [tool.poetry]
 name = "market-api"
 version = "1.0.0"
+license="MIT"
+keywords = ["csgo_market", "market", "api"]
+repository = "https://github.com/lordralinc/market_api"
+homepage = "https://github.com/lordralinc/market_api"
 description = "market.csgo.com api v2 wrapper"
 authors = ["lordralinc <lordralinc@gmail.com>"]
 readme = "README.md"
